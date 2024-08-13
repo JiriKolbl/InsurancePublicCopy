@@ -10,7 +10,7 @@ import static cz.itnetwork.zaverecnyprojektpojisteni.KomunikaceSUzivatelem.zadej
 import static cz.itnetwork.zaverecnyprojektpojisteni.KomunikaceSUzivatelem.zadejVek;
 
 /**
- * 
+ * Tento projekt byl vytvořen v rámci kurzu Java Basics, a proto nemusí obsahovat veškeré funkčnosti v souladu s best practices.
  * Jakožto autor rozumím tomu, že tento program obsahuje některé věci (prevážně kontroly), které v realné praxi nepoužiji, např. formátu čísla
  * nebo jména. Tento program avšak slouží převážně k prezentaci toho, co dokáži a proto jsem do něm zaimplementoval některé metody navíc, abych měl 
  * co ukázat, převážně z toho důvodu, že z časových důvodů již nestihnu dokončit pokročilý závěrečný projekt.
